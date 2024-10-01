@@ -1,5 +1,2 @@
-.cache
-__pycache__
-/vendor/
-/env/
-*.egg-info/
+.idea/
+.DS_Store

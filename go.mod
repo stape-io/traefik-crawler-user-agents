@@ -1,3 +1,3 @@
-module github.com/monperrus/crawler-user-agents
+module github.com/stape-io/traefik-crawler-user-agents
 
-go 1.19
+go 1.22
